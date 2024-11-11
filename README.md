@@ -1,6 +1,3 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Aguirre Valentin</h1>
 
 ## About Me :
@@ -24,5 +21,5 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://github.com/user-attachments/assets/53aed121-7cf4-4093-998c-bfb623cd25f8"/> <img src"https://github.com/user-attachments/assets/49df9ffc-b114-4d50-9425-9afa44ec1e48"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://github.com/user-attachments/assets/53aed121-7cf4-4093-998c-bfb623cd25f8"/> <img src"![image](https://github.com/user-attachments/assets/5ffef477-1354-4ac6-99a8-b7dadf351552)"/>
 
